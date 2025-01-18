@@ -13,7 +13,7 @@ dependencies:
   # state management
   flutter_bloc: ^8.1.2
   # comparing objects
-  equatable: ^2.0.5
+  equatable: ^2.0.5 
   # service locator
   get_it: ^7.6.0
   # date format
